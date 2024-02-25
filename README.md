@@ -16,8 +16,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="thisisripunjay | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" style="fill: white;/>][facebook]
-[<img align="left" alt="thisisripunjay | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style="fill: white;/>][instagram]
+[<img align="left" alt="thisisripunjay | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" style="fill: white;"/>][facebook]
+[<img align="left" alt="thisisripunjay | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style="fill: white;"/>][instagram]
 
 <br />
 
@@ -35,7 +35,7 @@
 
 <img align="left" alt="Dart" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" />
 
-<img align="left" alt="REST API" width="26px" src="https://image.flaticon.com/icons/png/512/2702/2702602.png" />
+<img align="left" alt="REST API" width="26px" src="[https://image.flaticon.com/icons/png/512/2702/2702602.png](https://keenethics.com/wp-content/uploads/2022/01/rest-api-1.svg)" />
 
 <img align="left" alt="Node.js" width="26px" src="https://img.icons8.com/color/48/000000/nodejs.png" />
 
